@@ -1,6 +1,27 @@
 # React + tailwind + TypeScript + Vite + Apollo Link Rest
 ใช้ Apollo Link Rest จัดการข้อมูล API และ Cache Client
 
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run dev
+
+# build
+& npm run build
+
+# production mode
+$ npm run preview
+```
 
 # ระบบ และ Pages
 * Page Login ระบบ Login
@@ -11,7 +32,7 @@
 * Page Search ระบบ แสดงค้นหา Task ที่มีคำเกี่ยวข้องกับ title  
 
 # เอกสาร
-[DOWNLOAD PDF ตัวอย่างหน้าเว็บ]()
+[DOWNLOAD PDF ตัวอย่างหน้าเว็บ](https://drive.google.com/file/d/1zJwmGkNaZuaiVIA_bURgEHi7ZVL0iWjm/view?usp=sharing)
 
 
 
